@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite" duration-ms="60028" started-at="2017-07-16T17:27:49Z" finished-at="2017-07-16T17:28:49Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60028" started-at="2017-07-16T17:27:49Z" finished-at="2017-07-16T17:28:49Z">
+      <class name="suite.sanity.s102SearchForAProduct">
+        <test-method status="PASS" signature="s102SearchForAProductTest()[pri:0, instance:suite.sanity.s102SearchForAProduct@26be92ad]" name="s102SearchForAProductTest" duration-ms="12898" started-at="2017-07-16T13:28:06Z" finished-at="2017-07-16T13:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s102SearchForAProductTest -->
+      </class> <!-- suite.sanity.s102SearchForAProduct -->
+      <class name="suite.sanity.s103EnterPDPPage">
+        <test-method status="PASS" signature="s103EnterPDPPageTest()[pri:0, instance:suite.sanity.s103EnterPDPPage@4c70fda8]" name="s103EnterPDPPageTest" duration-ms="19637" started-at="2017-07-16T13:28:19Z" finished-at="2017-07-16T13:28:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s103EnterPDPPageTest -->
+      </class> <!-- suite.sanity.s103EnterPDPPage -->
+      <class name="suite.sanity.s101SearchHomePage">
+        <test-method status="PASS" signature="s101SearchHomePageTest()[pri:0, instance:suite.sanity.s101SearchHomePage@2b98378d]" name="s101SearchHomePageTest" duration-ms="16918" started-at="2017-07-16T13:27:49Z" finished-at="2017-07-16T13:28:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- s101SearchHomePageTest -->
+      </class> <!-- suite.sanity.s101SearchHomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- suite -->
+</testng-results>

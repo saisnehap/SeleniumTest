@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [suite]">
+  <listeners>
+    <listener class-name="utility.FCI_Listener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="suite.sanity.s101SearchHomePage">
+        <methods>
+          <include name="s101SearchHomePageTest"/>
+        </methods>
+      </class> <!-- suite.sanity.s101SearchHomePage -->
+      <class name="suite.sanity.s102SearchForAProduct">
+        <methods>
+          <include name="s102SearchForAProductTest"/>
+        </methods>
+      </class> <!-- suite.sanity.s102SearchForAProduct -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [suite] -->
